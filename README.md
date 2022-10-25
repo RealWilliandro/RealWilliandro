@@ -3,19 +3,20 @@
 
 
 # 🚀 About Me
-I'm a Front-end developer...
+### I'm a Front-end developer...
+
 
 # 🛠 Skills
-Javascript, HTML, CSS...
-# Project Title
+### Javascript, HTML, CSS...
 
-This is a zuri task
+
+# Project Title
+### This is a zuri task
 
 
 
 
 # Authors
-
 - [@RealWilliandro](https://www.github.com/RealWilliandro)
 
 
